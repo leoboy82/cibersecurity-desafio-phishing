@@ -66,6 +66,7 @@ http://www.facebook.com
 - [SET Toolkit Official Documentation](https://github.com/trustedsec/social-engineer-toolkit)  
 
 ---
+![Imagem do terminal depois de execultar os comandos](C:\Users\leand\OneDrive\Imagens)
 
 ### 🚨 Reforce a Segurança:  
 - Não compartilhe este material com pessoas que possam usá-lo de forma inadequada.  
@@ -73,7 +74,7 @@ http://www.facebook.com
 
 ---
 ```
-![Imagem do terminal depois de execultar os comandos](C:\Users\leand\OneDrive\Imagens)
-
-
 Este README está organizado e apresenta as informações de forma sistemática e transparente, com seções bem definidas para facilitar o entendimento e navegação. Ele também inclui avisos legais e boas práticas para conscientização e uso responsável.
+
+
+
