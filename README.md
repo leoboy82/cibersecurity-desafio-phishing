@@ -1,5 +1,3 @@
-Aqui está o README melhorado em formato Markdown, com uma organização mais clara e transparente:  
-
 ```markdown
 # Phishing para Captura de Senhas do Facebook
 
