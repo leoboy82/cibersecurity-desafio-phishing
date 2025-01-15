@@ -73,5 +73,7 @@ http://www.facebook.com
 
 ---
 ```
+![Imagem do terminal depois de execultar os comandos](C:\Users\leand\OneDrive\Imagens)
+
 
 Este README está organizado e apresenta as informações de forma sistemática e transparente, com seções bem definidas para facilitar o entendimento e navegação. Ele também inclui avisos legais e boas práticas para conscientização e uso responsável.
