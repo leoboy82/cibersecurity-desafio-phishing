@@ -66,7 +66,8 @@ http://www.facebook.com
 - [SET Toolkit Official Documentation](https://github.com/trustedsec/social-engineer-toolkit)  
 
 ---
-![Imagem do terminal depois de execultar os comandos](C:\Users\leand\OneDrive\Imagens)
+### Print da Atividade
+![20250115_01394053](https://github.com/user-attachments/assets/ee233bbe-2e6c-45b0-a4f9-bc90e0a1002e)
 
 ### 🚨 Reforce a Segurança:  
 - Não compartilhe este material com pessoas que possam usá-lo de forma inadequada.  
